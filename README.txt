@@ -4,6 +4,14 @@ humanTrafficking
 A simulation of global human trafficking phenomenon, in particular forced
 prostitution.
 
+Bethany Akers, B.S.
+Stephen Davies, Ph.D.
+University of Mary Washington, Computer Science Department
+
+
+
+instructions
+============
 
 To compile, javac all source files. Make sure your CLASSPATH includes the
 src directory (in which the edu/umw/cpsc/humantrafficking directory 
