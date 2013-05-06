@@ -1,0 +1,13 @@
+Locations:
+Sri Lanka,    6.5653, 87.4303,  215000, .51, .30
+South Korea,  44.4693, 136.6243,  500000, .51, .30
+Bangladesh,  31.8511, 99.9250, 1610000, .53, .30
+India,       25.7679, 87.8718, 12050000, .52, .30
+Pakistan,    36.0162, 76.6926, 1900000, .52, .30
+China,       41.9043, 112.4677, 13441300, .46, .30
+Myanmar,     23.8761, 102.0452, 483367, .50, .30
+Thailand,    15.9202, 109.0168, 634300, .51, .30
+Routes:
+Sri Lanka  ->             South Korea,    3, 3 
+Bangladesh -> India   ->  Pakistan,       4, 3, 4
+China      -> Myanmar ->  Thailand,       5, 4, 5
