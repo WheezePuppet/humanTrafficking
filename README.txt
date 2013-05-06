@@ -10,8 +10,8 @@ src directory (in which the edu/umw/cpsc/humantrafficking directory
 hierarchy resides).
 
 You will also need to include the following in your CLASSPATH:
-  - mason.16.jar, available inside the .zip file here:
-   http://cs.gmu.edu/~eclab/projects/mason/mason16.zip
+  - mason.17.jar (or latest version) available inside the .zip file here:
+   http://cs.gmu.edu/~eclab/projects/mason/mason.zip
   - geomason1.5.jar, available here:
    http://cs.gmu.edu/~eclab/projects/mason/extensions/geomason/geomason.1.5.jar
   - jts-1.13.jar, available inside the .zip file here:
